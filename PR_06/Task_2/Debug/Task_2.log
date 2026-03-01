@@ -1,0 +1,2 @@
+﻿Task_2.obj : error LNK2019: ссылка на неразрешенный внешний символ _CalculateFormula в функции _wmain.
+D:\study\МДК 01.04\Практические работы\PR_06\Debug\Task_2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

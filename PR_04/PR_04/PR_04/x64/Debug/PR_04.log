@@ -1,0 +1,41 @@
+﻿  PR_04.cpp
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(8,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(13,3): error C2065: 'move': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(13,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(13,8): error C2065: 'eax': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(14,3): error C2146: syntax error: missing ';' before identifier 'move'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(14,3): error C2065: 'move': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(14,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(14,8): error C2065: 'ebx': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(15,3): error C2146: syntax error: missing ';' before identifier 'move'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(15,3): error C2065: 'move': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(15,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(15,8): error C2065: 'ecx': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'm1'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(19,3): error C2065: 'add': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(19,7): error C2065: 'eax': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(19,12): error C2065: 'ebx': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(20,3): error C2065: 'cmp': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(20,7): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(20,7): error C2065: 'eax': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(21,3): error C2146: syntax error: missing ';' before identifier 'jge'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(21,3): error C2065: 'jge': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(21,7): error C2146: syntax error: missing ';' before identifier 'm2'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(21,7): error C2065: 'm2': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(22,3): error C2146: syntax error: missing ';' before identifier 'inc'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(22,3): error C2065: 'inc': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(22,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(22,7): error C2065: 'ecx': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'add'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(23,3): error C2065: 'add': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(23,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(23,7): error C2065: 'ebx': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'jmp'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(24,3): error C2065: 'jmp': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'm1'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(24,7): error C2065: 'm1': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(26,3): error C2146: syntax error: missing ';' before identifier 'm2'
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(28,3): error C2065: 'nop': undeclared identifier
+D:\Bezrukova\PR_04\PR_04\PR_04.cpp(30,2): error C2143: syntax error: missing ';' before '}'

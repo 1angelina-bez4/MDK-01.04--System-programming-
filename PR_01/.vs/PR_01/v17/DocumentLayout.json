@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\\u041C\u0414\u041A 01.04\\PR_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA35D1B7-8316-482B-B5A7-39B3471782C4}|PR_01\\PR_01.vcxproj|D:\\study\\\u041C\u0414\u041A 01.04\\PR_01\\PR_01\\PR_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA35D1B7-8316-482B-B5A7-39B3471782C4}|PR_01\\PR_01.vcxproj|solutionrelative:PR_01\\PR_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR_01.cpp",
+              "DocumentMoniker": "D:\\study\\\u041C\u0414\u041A 01.04\\PR_01\\PR_01\\PR_01.cpp",
+              "RelativeDocumentMoniker": "PR_01\\PR_01.cpp",
+              "ToolTip": "D:\\study\\\u041C\u0414\u041A 01.04\\PR_01\\PR_01\\PR_01.cpp",
+              "RelativeToolTip": "PR_01\\PR_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T17:21:18.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

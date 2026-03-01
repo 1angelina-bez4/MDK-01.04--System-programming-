@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PR_05/PR_05.vcxproj" Id="74199075-52bc-4570-82c8-b02a754c9913" />
+  <Project Path="Task02/Task02.vcxproj" Id="6dbe10f4-74cd-4ec0-8454-a13020a88df2" />
+  <Project Path="Task03/Task03.vcxproj" Id="d6b98c09-2971-4825-b6ac-27900639ac26" />
+  <Project Path="Task04/Task04.vcxproj" Id="7645d9db-111b-42ec-b7cb-b7d0448482a0" />
+  <Project Path="Task05/Task05.vcxproj" Id="5cc03438-2998-456a-8cbe-402df3fa62ce" />
+</Solution>
