@@ -38,9 +38,9 @@
 | 2 | Условные операторы | if-else, switch-case, тернарный оператор | ✅ |
 | 3 | Циклы и условия в языке С | for, while, do-while | ✅ |
 | 4 | Строки в языке С | Работа со строками в языке С | ✅ |
-| 5 | Массивы целых и вещественных чисел в языке С | Введение в вещественные и тригонометрические вычисления с помощью стеков |  |
-| 6 | Указатели в языке С | Работа с памятью ПК |  |
-| 7 | Функции в языке С |  Объявление и вызов функции. Прототип функции |  |
+| 5 | Массивы целых и вещественных чисел в языке С | Введение в вещественные и тригонометрические вычисления с помощью стеков | ✅ |
+| 6 | Указатели в языке С | Работа с памятью ПК | ✅ |
+| 7 | Функции в языке С |  Объявление и вызов функции. Прототип функции | ✅ |
 | 8 | Файловый ввод/вывод в языке С |  Чтение и запись текстовых файлов |  |
 | 9 | Структуры, объединения и перечисления |  |  |
 | 10 | Понятие препроцессора в языке С | Компоновка консольных проектов |  |
@@ -78,6 +78,37 @@ This repository is a portfolio of laboratory and practical works completed as pa
 
 ## 📂 Repository Structure
 In each folder there is a project *.sln in Task_N.cpp there is a code in assembler
+
+### Assembly Language Laboratory Works
+
+| No. | Topic | Description | Status |
+|-----|-------|-------------|--------|
+| 1 | Introduction. Number Systems. IA-32 (x86) Architecture | Concept of registers and instructions. Simple calculations and loops in assembly. | ✅ |
+| 2 | Organizing Work with PC Memory | String processing in assembly language | ✅ |
+| 3 | Data Type Conversions | Programmatic data type conversion using assembly language | ✅ |
+| 4 | Arrays | Working with integer arrays in assembly language | ✅ |
+| 5 | Floating-Point and Trigonometric Computations | Introduction to floating-point and trigonometric computations using stacks | ✅ |
+| 6 | Input/Output | Console input/output in assembly language | ✅ |
+| 7 | Logical Instructions and Shifts | Data encryption | ✅ |
+| 8 | Introduction to x64 Architecture | Various aspects related to 64-bit technologies are covered | ✅ |
+| 9 | File Input/Output | | ✅ |
+| 10 | Executable File Analysis | Fundamentals of static and dynamic analysis | ✅ |
+
+### C Language Laboratory Works
+
+| No. | Topic | Description | Status |
+|-----|-------|-------------|--------|
+| 1 | Expressions and Data Types in C | Console input-output | ✅ |
+| 2 | Conditional Statements | if-else, switch-case, ternary operator | ✅ |
+| 3 | Loops and Conditions in C | for, while, do-while | ✅ |
+| 4 | Strings in C | Working with strings in C | ✅ |
+| 5 | Arrays of Integer and Floating-Point Numbers in C | Introduction to floating-point and trigonometric computations using stacks | ✅ |
+| 6 | Pointers in C | Working with PC memory | ✅ |
+| 7 | Functions in C | Function declaration and call. Function prototype | ✅ |
+| 8 | File Input/Output in C | Reading and writing text files | |
+| 9 | Structures, Unions, and Enumerations | | |
+| 10 | The Preprocessor Concept in C | Linking console projects | |
+| 11 | Practical Programming | | |
 
 ## 🎯 Repository Goals
 
