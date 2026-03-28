@@ -41,7 +41,7 @@
 | 5 | Массивы целых и вещественных чисел в языке С | Введение в вещественные и тригонометрические вычисления с помощью стеков | ✅ |
 | 6 | Указатели в языке С | Работа с памятью ПК | ✅ |
 | 7 | Функции в языке С |  Объявление и вызов функции. Прототип функции | ✅ |
-| 8 | Файловый ввод/вывод в языке С |  Чтение и запись текстовых файлов |  |
+| 8 | Файловый ввод/вывод в языке С |  Чтение и запись текстовых файлов | ✅ |
 | 9 | Структуры, объединения и перечисления |  |  |
 | 10 | Понятие препроцессора в языке С | Компоновка консольных проектов |  |
 | 11 | Практическое программирование | |  |
@@ -105,7 +105,7 @@ In each folder there is a project *.sln in Task_N.cpp there is a code in assembl
 | 5 | Arrays of Integer and Floating-Point Numbers in C | Introduction to floating-point and trigonometric computations using stacks | ✅ |
 | 6 | Pointers in C | Working with PC memory | ✅ |
 | 7 | Functions in C | Function declaration and call. Function prototype | ✅ |
-| 8 | File Input/Output in C | Reading and writing text files | |
+| 8 | File Input/Output in C | Reading and writing text files | ✅ |
 | 9 | Structures, Unions, and Enumerations | | |
 | 10 | The Preprocessor Concept in C | Linking console projects | |
 | 11 | Practical Programming | | |
